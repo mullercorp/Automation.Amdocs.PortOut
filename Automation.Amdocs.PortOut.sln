@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automation.Amdocs.PortOut.Data", "Automation.Amdocs.PortOut.Data\Automation.Amdocs.PortOut.Data.csproj", "{7BF3BD68-CEB8-4498-A17C-4507FBF5F701}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automation.Amdocs.PortOut.DLTrigger", "Automation.Amdocs.PortOut.DLTrigger\Automation.Amdocs.PortOut.DLTrigger.csproj", "{B66C5E86-C776-4DFC-B042-A2EACFA7C607}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automation.Amdocs.PortOut.Robot", "Automation.Amdocs.PortOut.Robot\Automation.Amdocs.PortOut.Robot.csproj", "{4D083A3E-9BBA-450F-A6DF-4A13A88B99DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automation.Amdocs.PortOut.DLRobot", "Automation.Amdocs.PortOut.DLRobot\Automation.Amdocs.PortOut.DLRobot.csproj", "{72EA32C5-0AAA-4397-A095-64AD2C7380E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortOutApiTool", "PortOutApiTool\PortOutApiTool.csproj", "{731C4AC4-9773-48E9-909D-495596A10B01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amdocs.Shared.Uhelp", "..\Automation.Amdocs.Shared\Amdocs.Shared.Uhelp\Amdocs.Shared.Uhelp\Amdocs.Shared.Uhelp.csproj", "{1E5BAFDB-69C4-42C9-BA3C-8FA5F0543F8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BF3BD68-CEB8-4498-A17C-4507FBF5F701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF3BD68-CEB8-4498-A17C-4507FBF5F701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF3BD68-CEB8-4498-A17C-4507FBF5F701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF3BD68-CEB8-4498-A17C-4507FBF5F701}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B66C5E86-C776-4DFC-B042-A2EACFA7C607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B66C5E86-C776-4DFC-B042-A2EACFA7C607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B66C5E86-C776-4DFC-B042-A2EACFA7C607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B66C5E86-C776-4DFC-B042-A2EACFA7C607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D083A3E-9BBA-450F-A6DF-4A13A88B99DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D083A3E-9BBA-450F-A6DF-4A13A88B99DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D083A3E-9BBA-450F-A6DF-4A13A88B99DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D083A3E-9BBA-450F-A6DF-4A13A88B99DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72EA32C5-0AAA-4397-A095-64AD2C7380E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72EA32C5-0AAA-4397-A095-64AD2C7380E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72EA32C5-0AAA-4397-A095-64AD2C7380E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72EA32C5-0AAA-4397-A095-64AD2C7380E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{731C4AC4-9773-48E9-909D-495596A10B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{731C4AC4-9773-48E9-909D-495596A10B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{731C4AC4-9773-48E9-909D-495596A10B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{731C4AC4-9773-48E9-909D-495596A10B01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E5BAFDB-69C4-42C9-BA3C-8FA5F0543F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E5BAFDB-69C4-42C9-BA3C-8FA5F0543F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E5BAFDB-69C4-42C9-BA3C-8FA5F0543F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E5BAFDB-69C4-42C9-BA3C-8FA5F0543F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8EE47BF-B33F-4F71-86B7-936B66ECCEFB}
+	EndGlobalSection
+EndGlobal
